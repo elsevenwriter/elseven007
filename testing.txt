@@ -1,3 +1,4 @@
-Belajar git
+Belajar git revisi
 - tahap 1
 - tahap 2
+- tahap 3
