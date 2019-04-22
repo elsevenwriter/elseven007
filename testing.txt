@@ -1,4 +1,4 @@
-Belajar git revisi
+Belajar git revisi lagi
 - tahap 1
-- tahap 2
 - tahap 3
+- tahap 2 dihapus
